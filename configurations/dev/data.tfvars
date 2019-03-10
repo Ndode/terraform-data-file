@@ -1,0 +1,11 @@
+ami                     = "ami-02a39bdb8e8ee056a"
+instance_type           = "t2.micro"
+key                     = "terraform-key"
+Name                    = "solar"
+created_by              = "Dione"
+department              = "IT"
+count                   = "2"
+vpc                     = ""
+env                     = "dev"
+name                    = "solar.dev.company.com"
+
